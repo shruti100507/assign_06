@@ -1,0 +1,9 @@
+{
+    "name": "assignment6-web-server",
+    "version": "1.0.0",
+    "description": "A simple web server using Node.js HTTP module",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    }
+}
